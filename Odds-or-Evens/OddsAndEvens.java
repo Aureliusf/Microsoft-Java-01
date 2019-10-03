@@ -32,6 +32,7 @@ public class OddsAndEvens {
             System.out.println("The sum is odd");
             if (option.startsWith("O")){
                 System.out.println("That means "+name+" wins");
+                System.out.println("Congratulations!!");
             }else{
                 System.out.println("That means the computer wins!");
             }
